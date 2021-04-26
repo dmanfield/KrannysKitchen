@@ -1,0 +1,1 @@
+web: gunicorn krannys_kitchen_backend.wsgi
